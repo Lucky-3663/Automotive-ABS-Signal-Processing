@@ -51,3 +51,8 @@ This project simulates an automotive wheel speed sensor signal with realistic ro
 
 ## 🎯 Author
 Automotive Data & Signal Processing Enthusiast
+
+---
+
+## Output Results
+![Wheel Deceleration Profile](images/deceleration.png)
