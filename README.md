@@ -1,4 +1,7 @@
 # 🚗 ABS Wheel Speed Sensor Signal Processing
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-green)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 ## 📌 Project Overview
 This project simulates an automotive wheel speed sensor signal with realistic road vibration and electrical noise. A Butterworth low-pass filter is applied to remove high-frequency disturbances. FFT analysis is performed to identify dominant frequency components and justify filter cutoff selection. A deceleration-based logic is implemented to detect potential ABS activation conditions.
