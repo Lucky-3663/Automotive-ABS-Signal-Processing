@@ -57,8 +57,8 @@ Automotive Data & Signal Processing Enthusiast
 
 ---
 
-## 📊 Output Results
-📈![Wheel Deceleration Profile](images/deceleration.png)
+## Output Results
+![Wheel Deceleration Profile](images/deceleration.png)
 
 ---
 
