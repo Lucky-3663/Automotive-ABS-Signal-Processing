@@ -77,15 +77,11 @@ https://github.com/Lucky-3663/Automotive-ABS-Signal-Processing/blob/main/compari
 ---
 
 ## 🧠 Slip Ratio Based ABS Logic
+![Slip ratio based ABS logic](images/slip_ratio.png)
+https://github.com/Lucky-3663/Automotive-ABS-Signal-Processing/blob/main/slip_ratio.png?raw=true
 
-![ABS ON OFF](images/slip_ratio.png)
-
-Slip ratio was computed using wheel and vehicle speed signals.
-ABS activation occurs when slip exceeds 0.2, preventing wheel lock.
 
 ## 📊 Slip Ratio vs Deceleration Analysis
+![Slip vs Deceleration](images/slip_vs_deceleration.png)
+https://github.com/Lucky-3663/Automotive-ABS-Signal-Processing/blob/main/slip_vs_deceleration.png?raw=true
 
-![Slip vs Decel](images/slip_vs_deceleration.png)
-
-Combined analysis shows that ABS maintains controlled deceleration
-while regulating excessive wheel slip.
