@@ -54,17 +54,17 @@ Automotive Data & Signal Processing Enthusiast
 
 ---
 
-## Output Results
-![Wheel Deceleration Profile](images/deceleration.png)
+## 📊 Output Results
+📈![Wheel Deceleration Profile](images/deceleration.png)
 
 ---
 
-### Analysis
+## 🧠 Analysis
 The Graph represents the wheel deceleration profile during ABS activation.
 It shows how braking force varies with time to prevent wheel lock-up.
 The smooth deceleration curve indicates controlled braking, which improves vehicle stability and reduces stopping distance.
 
 ---
 
-## ABS vs Normal Braking
+## ⚖️ ABS vs Normal Braking
 ![ABS Comparison](images/comparison.png)
