@@ -78,7 +78,7 @@ https://github.com/Lucky-3663/Automotive-ABS-Signal-Processing/blob/main/compari
 
 ## 🧠 Slip Ratio Based ABS Logic
 
-![ABS ON OFF](images/abs_on_off.png)
+![ABS ON OFF](images/slip_ratio.png)
 
 Slip ratio was computed using wheel and vehicle speed signals.
 ABS activation occurs when slip exceeds 0.2, preventing wheel lock.
