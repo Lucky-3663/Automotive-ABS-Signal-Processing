@@ -73,3 +73,19 @@ The smooth deceleration curve indicates controlled braking, which improves vehic
 ## ⚖️ ABS vs Normal Braking
 ![ABS Comparison](images/comparison.png)
 https://github.com/Lucky-3663/Automotive-ABS-Signal-Processing/blob/main/comparison.png?raw=true
+
+---
+
+## 🧠 Slip Ratio Based ABS Logic
+
+![ABS ON OFF](images/abs_on_off.png)
+
+Slip ratio was computed using wheel and vehicle speed signals.
+ABS activation occurs when slip exceeds 0.2, preventing wheel lock.
+
+## 📊 Slip Ratio vs Deceleration Analysis
+
+![Slip vs Decel](images/slip_vs_deceleration.png)
+
+Combined analysis shows that ABS maintains controlled deceleration
+while regulating excessive wheel slip.
